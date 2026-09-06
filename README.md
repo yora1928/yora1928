@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Yora Hanif
 
-<!--
-**yora1928/yora1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 IT Enthusiast | 🛡️ Cybersecurity Learner
 
-Here are some ideas to get you started:
+I'm a high school student interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ Cybersecurity
+- 🌐 Computer Networking
+- 🖥️ Linux & Server
+- ☁️ VPS & Cloud
+- 🔧 System Administration
+
+## 🚀 Currently Learning
+
+- Linux
+- Networking
+- Cybersecurity Fundamentals
+- Git & GitHub
+- Server Administration
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🔐 Cybersecurity Lab | My cybersecurity practice and documentation |
+| 🌐 Networking Lab | Networking experiments and configurations |
+| 🖥️ Linux Server | Linux server administration practice |
+
+## 🏆 Goals
+
+- Build real-world IT projects
+- Improve networking skills
+- Learn cybersecurity ethically
+- Build a strong IT portfolio
+
+---
+
+⭐ Thanks for visiting my profile!
