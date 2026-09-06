@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="./assets/yora.jpg" width="850">
@@ -45,7 +44,7 @@ I focus on understanding things one step at a time.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,python,cisco&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,python,cisco&theme=dark">
 
 </div>
 
@@ -101,7 +100,7 @@ Notes and experiments from working with Linux systems and server environments.
             IMPROVE
                │
                └───────────────► repeat
-````
+```
 
 I prefer learning through practice rather than simply reading about a technology.
 
@@ -123,15 +122,15 @@ Server Administration     █████░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yora1928&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=yora1928&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=00000000">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yora1928&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yora1928&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&bg_color=00000000">
 
 </div>
 
 ---
 
-## A little more about me
+## A Little More About Me
 
 ```yaml
 name: Hanif Ivan Prasetyo
@@ -171,4 +170,3 @@ mindset:
 <sub>Always learning something new.</sub>
 
 </div>
-```
