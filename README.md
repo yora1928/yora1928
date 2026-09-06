@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/yora.jpg" width="850">
+<img src="https://cdn.phototourl.com/free/2026-09-06-238eae1f-86ff-4fe4-b584-7d7b6fb25058.jpg" width="450">
 
 <br>
 
