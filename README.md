@@ -32,11 +32,11 @@ I focus on understanding things one step at a time.
 
 | Area | What I'm Exploring |
 | :--- | :--- |
-| 🌐 **Networking** | TCP/IP · DNS · DHCP · Routing · Troubleshooting |
-| 🛡️ **Cybersecurity** | Security fundamentals · Vulnerability research · Security testing |
-| 🐧 **Linux** | System administration · Permissions · SSH · Services |
-| ☁️ **Server** | VPS · Docker · Deployment · Server management |
-| 🔧 **Tools** | Nmap · Wireshark · curl · Nikto · Git |
+|  **Networking** | TCP/IP · DNS · DHCP · Routing · Troubleshooting |
+|  **Cybersecurity** | Security fundamentals · Vulnerability research · Security testing |
+|  **Linux** | System administration · Permissions · SSH · Services |
+|  **Server** | VPS · Docker · Deployment · Server management |
+|  **Tools** | Nmap · Wireshark · curl · Nikto · Git |
 
 ---
 
