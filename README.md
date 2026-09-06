@@ -1,6 +1,7 @@
+````markdown
 <div align="center">
 
-<img src="https://cdn.phototourl.com/free/2026-09-06-238eae1f-86ff-4fe4-b584-7d7b6fb25058.jpg" width="450">
+<img src="./assets/yora.jpg" width="850">
 
 <br>
 
@@ -100,3 +101,74 @@ Notes and experiments from working with Linux systems and server environments.
             IMPROVE
                │
                └───────────────► repeat
+````
+
+I prefer learning through practice rather than simply reading about a technology.
+
+---
+
+## Currently Learning
+
+```text
+Computer Networking       ███████░░░
+Linux Administration      ██████░░░░
+Cybersecurity             ██████░░░░
+Git & GitHub              ███████░░░
+Server Administration     █████░░░░░
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yora1928&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=00000000" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yora1928&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&bg_color=00000000" />
+
+</div>
+
+---
+
+## A little more about me
+
+```yaml
+name: Hanif Ivan Prasetyo
+alias: YORA
+
+focus:
+  - Networking
+  - Cybersecurity
+  - Linux
+  - Server Administration
+
+currently_learning:
+  - Network Security
+  - Linux Administration
+  - Server Management
+  - Git & GitHub
+
+mindset:
+  - Learn by doing
+  - Keep experimenting
+  - Document what I learn
+  - Improve continuously
+```
+
+---
+
+<div align="center">
+
+<br>
+
+**YORA**
+
+`LEARNING • BUILDING • DOCUMENTING`
+
+<br>
+
+<sub>Always learning something new.</sub>
+
+</div>
+```
