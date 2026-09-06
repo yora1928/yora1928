@@ -1,38 +1,44 @@
-# 👋 Hi, I'm Yora Hanif
+<div align="center">
 
-🎓 Student | 💻 IT Enthusiast | 🛡️ Cybersecurity Learner
+<img src="./assets/yora.jpg" width="700">
 
-I'm a high school student interested in:
+# HANIF IVAN PRASETYO
 
-- 🛡️ Cybersecurity
-- 🌐 Computer Networking
-- 🖥️ Linux & Server
-- ☁️ VPS & Cloud
-- 🔧 System Administration
+**IT Student · Networking · Cybersecurity · Linux**
 
-## 🚀 Currently Learning
+*Learning by building, testing, and documenting.*
 
-- Linux
-- Networking
-- Cybersecurity Fundamentals
-- Git & GitHub
-- Server Administration
-
-## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🔐 Cybersecurity Lab | My cybersecurity practice and documentation |
-| 🌐 Networking Lab | Networking experiments and configurations |
-| 🖥️ Linux Server | Linux server administration practice |
-
-## 🏆 Goals
-
-- Build real-world IT projects
-- Improve networking skills
-- Learn cybersecurity ethically
-- Build a strong IT portfolio
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## ABOUT
+
+I'm a high school student interested in Information Technology.
+
+My main interests are **computer networking, cybersecurity, Linux, and server administration**. I learn mostly through hands-on practice, personal projects, and lab environments.
+
+I'm still learning, so this profile is also a record of the things I've built, tested, and understood along the way.
+
+---
+
+## FOCUS
+
+```text
+Networking
+├── TCP/IP
+├── DNS & DHCP
+├── Network troubleshooting
+└── Network infrastructure
+
+Cybersecurity
+├── Security fundamentals
+├── Vulnerability research
+├── Security testing
+└── Security awareness
+
+Linux & Server
+├── Linux administration
+├── SSH
+├── Server configuration
+└── VPS & services
